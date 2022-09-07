@@ -1,1 +1,3 @@
-Currently for version 3.0
+## My Blender user preferences 😐
+
+Blender version: 3.2
