@@ -1,3 +1,3 @@
-## My Blender user preferences 😐
+## My Blender user preferences 🔶
 
 Blender version: 3.6
