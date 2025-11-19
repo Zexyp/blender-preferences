@@ -1,6 +1,6 @@
 # My Blender user preferences 🔶
 
-Blender version: 4.1
+Blender version: 4.5
 
 ## Checklist
 - denote current version
