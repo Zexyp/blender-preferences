@@ -1,13 +1,13 @@
 schema_version = "1.0.0"
 
 id = "Dark_Purple_Green"
-version = "1.0.0"
+version = "1.0.1"
 name = "DarkPurpleGreen"
-tagline = "Dark minimal neon theme I use daily"
+tagline = "Dark minimal neon theme"
 maintainer = "MSBH <msbh.contact@gmail.com>"
 type = "theme"
 
-blender_version_min = "4.2.0"
+blender_version_min = "5.0.0"
 
 tags = ["Dark"]
 

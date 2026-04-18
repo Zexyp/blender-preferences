@@ -3,4 +3,4 @@ scripts/addons/*
 __pycache__/
 *.py[cod]
 extensions/.cache
-extensions/blender_org/.blender_ext/index.json
+extensions/blender_org/.blender_ext/*
