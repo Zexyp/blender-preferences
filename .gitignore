@@ -2,5 +2,6 @@ config/*.txt
 scripts/addons/*
 __pycache__/
 *.py[cod]
+extensions/*
 extensions/.cache
 extensions/blender_org/.blender_ext/*
