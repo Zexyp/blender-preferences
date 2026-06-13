@@ -1,10 +1,6 @@
-# My Blender user preferences 🔶
+# My Blender config directory 🔶
 
-Blender version: 4.5
-
-## Checklist
-- denote current version
-
+## Recipe
 ### System
 - set gpu rendering
 
@@ -18,5 +14,4 @@ Blender version: 4.5
 - set resolution to 4K and 50 %
 
 ### UI
-- assets layout
 - set theme
