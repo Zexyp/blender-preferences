@@ -797,12 +797,12 @@
     <node_editor>
       <ThemeNodeEditor
         grid="#303030"
-        node_outline="#ffffff58"
+        node_outline="#ffffff26"
         node_selected="#ed5700"
         node_active="#ffffff"
         wire="#1a1a1aff"
         wire_inner="#8d8d8d"
-        wire_select="#b35b29b3"
+        wire_select="#ffffffb3"
         node_backdrop="#161616e6"
         converter_node="#005583"
         color_node="#6e6e00"
